@@ -4,7 +4,7 @@ A plug-and-play backend platform built on a Bring Your Own Key (BYOK) architectu
 
 <p align="left">
     <a href="https://westfont.com">
-        <img src="https://i.imgur.com/s9Xcy4Q.png" alt="CloudBase Logo" width="1000" />
+        <img src="https://i.imgur.com/kLwGpaC.png" alt="CloudBase Logo" width="1000" />
     </a>
 </p>
 
