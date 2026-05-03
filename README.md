@@ -1,5 +1,6 @@
 # CloudBase
-"Plug-and-play" modular database, authentication, payment provider, hosting, and serverless functions for rapid development. 
+A plug-and-play backend platform combining database, authentication, payments, hosting, and serverless functions in one modular system.
 
-Designed for merci.sh 
-by WestFont™
+Built for rapid product development without infrastructure setup.
+
+Designed by WestFont™ for merci.sh
