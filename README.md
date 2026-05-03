@@ -5,4 +5,4 @@ A plug-and-play backend platform combining database, authentication, payments, h
 > CloudBase by WestFont™ is a source-available project licensed under the [Elastic License 2.0 (ELv2)](LICENSE.md)
 
 
-Designed by [WestFont](WestFont.com) for [leron.io](leron.io)
+Designed by [WestFont](http://WestFont.com) for [leron.io](leron.io)
