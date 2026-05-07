@@ -1,5 +1,3 @@
-<br>
-
 # CloudBase — Backend as a Service
 
 A plug-and-play backend platform built on a Bring Your Own Key (BYOK) architecture, combining database, authentication, payments, hosting, and serverless functions in one system. Built for rapid product development without infrastructure setup.
